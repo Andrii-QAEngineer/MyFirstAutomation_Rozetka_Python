@@ -1,4 +1,4 @@
-#Автоматизація тестування сайту Rozetka (Python + Selenium)
+    #Автоматизація тестування сайту Rozetka (Python + Selenium)
 
 ## Автоматизоване тестування сайту Rozetka за допомогою Python та Selenium
 
